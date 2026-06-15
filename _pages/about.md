@@ -7,10 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm Yiting Miao, a graduate researcher in the Communication Data Science dual-degree program at Tsinghua University and USC Annenberg. I study the psychological mechanisms underlying communication, largely through the lens of evolutionary psychology.
+I'm Yiting Miao, a graduate researcher in the Communication Data Science dual-degree program at Tsinghua University and USC Annenberg. I study the psychological mechanisms underlying communication, mostly through the lens of evolutionary psychology.
 
-I'm especially drawn to communication behaviors that look like errors or biases: what we come to believe, what we pass on to others, and how we infer the effects of media on ourselves and others. My working hypothesis is that many of these behaviors reflect the operation of evolved psychological mechanisms. These mechanisms were shaped to solve adaptive problems our ancestors recurrently faced, but they now operate in informational environments very different from the ones in which they evolved. That mismatch is part of why such behaviors can look irrational on the surface. Viewed against the adaptive problems they were built to solve, however, they often prove surprisingly rational.
+I'm especially drawn to communication behaviors that look like errors or biases: what we come to believe, what we pass on to others, and how we infer media's effects on ourselves and others.
 
-I pursue these questions primarily through experiments, which I take to be one of the strongest tools we have for establishing causality. I also enjoy learning and applying new computational methods for making sense of large-scale communication data.
+My working hypothesis is that many of these reflect evolved psychological mechanisms: solutions to problems our ancestors faced, now running in very different environments. That mismatch is what can make the behaviors look irrational. Seen against the problems they evolved to solve, they often prove surprisingly rational. And the better we understand these mechanisms, the better positioned we are to work with them rather than against them, designing responses that fit how people actually think.
+
+To test ideas like these, I rely primarily on experiments, which I take to be our strongest tool for establishing causality. I also work with new computational methods to make sense of large-scale data.
 
 You can find more about my ongoing work on the [Research](/publications/) page, and download my CV from the [CV](/cv/) page.
