@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: "About"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 I'm Yiting Miao, a graduate researcher in the Communication Data Science dual-degree program at Tsinghua University and USC Annenberg. I study the psychological mechanisms underlying communication, largely through the lens of evolutionary psychology.
