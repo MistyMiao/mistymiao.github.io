@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 title: "About"
@@ -15,4 +14,3 @@ My research is driven by a curiosity about the **psychological mechanisms** unde
 My current projects examine why people share misinformation, how individuals perceive the effects of violent media content, and how psychological predictors can be used to understand public attitudes toward surveillance and content moderation.
 
 You can find more about my ongoing work on the [Research](/publications/) page, and download my CV from the [CV](/cv/) page.
-
